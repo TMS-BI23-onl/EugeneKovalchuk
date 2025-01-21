@@ -1,0 +1,14 @@
+Well done!
+
+Please, organize your folder structure. It's hard to guess which file is which homework. :)
+
+HW2
+
+file 1 - task 4
+Your solution is incorrect. I was asking for all rows where EmailPromotion is not = 2, and you gave me only 1.
+
+file 4 - task 1
+The task was "including 1", not "equals to 1". And your boundaries are even wider. 
+We discussed solution for this task at previous lesson3, please take a look.
+
+Also, russian comments can't be read.
